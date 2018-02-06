@@ -1,0 +1,2 @@
+copy the below line to ~/.bashrc
+alias trim='python3 /run/media/mward/extended/projects/tmp/test.py $(pwd)'
