@@ -8,5 +8,5 @@ python3 trim.py ~/tmp
 Another option is put the path to the trim.py file in your ~/.bashrc and add a `$(pwd)` at the end. See example below
 
 ```bash
-alias trim='python3 /run/media/mward/extended/projects/trim/test.py $(pwd)'
+alias trim='python3 /run/media/mward/extended/projects/trim/trim.py $(pwd)'
 ```
